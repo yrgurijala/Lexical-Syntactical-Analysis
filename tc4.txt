@@ -1,0 +1,3 @@
+multiply(312312,multiply(23135,0))
+multiply(multiply(542342,123121),1)
+multiply(multiply(874678234,24524231123),multiply(353452432,3534534323))

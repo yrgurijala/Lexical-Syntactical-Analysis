@@ -1,0 +1,2 @@
+multiply(3,multiply(5,0))
+multiply(multiply(5,1),1)
